@@ -22,14 +22,23 @@ A Java-based application used to **pack multiple files into a single file and un
 
 Java-File-Packer-Unpacker/
 │
+
 ├── src/
+
 │   ├── Packer.java
+
 │   ├── Unpacker.java
+
 │   └── PackerUnpackerGUI.java
+
 │
+
 ├── screenshots/
+
 ├── README.md
+
 ├── HOW_TO_RUN.md
+
 └── .gitignore
 
 
